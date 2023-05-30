@@ -1,0 +1,8 @@
+.container {
+    /* allows you to put box(container ) anywhere on screen */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
